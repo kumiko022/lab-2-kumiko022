@@ -16,3 +16,4 @@ x  f(x)
 5  105
 ***********
 ```
+<img width="753" height="295" alt="Image" src="https://github.com/user-attachments/assets/56a82463-ad79-4c59-8b9d-0f8147850ce3" />
