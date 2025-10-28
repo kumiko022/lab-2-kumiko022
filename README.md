@@ -3,9 +3,9 @@
 
 ## 👤 Información del alumno
 
-- Nombre:
-- Matrícula:
-- Fecha:
+- Nombre: Kumiko García Tokunaga
+- Matrícula: zS25018131
+- Fecha: 27/10/2025
 
 ## 🎯 Objetivos
 
