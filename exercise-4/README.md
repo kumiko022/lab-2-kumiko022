@@ -6,4 +6,4 @@ Escriba un programa de C ++ que lea tres números del teclado y encuentre el nú
 
 ## ✅ Resultado
 
-(Añadir captura de pantalla del resultado de la ejecución)
+<img width="699" height="281" alt="Image" src="https://github.com/user-attachments/assets/e569cd6f-913e-49cd-829d-66eef456015f" />
